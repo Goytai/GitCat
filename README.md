@@ -9,7 +9,7 @@
 ------------
 
 <p align="center">
-    <a href="https://github.com/Goytai/Podcastr/blob/master/LICENSE">
+    <a href="https://github.com/Goytai/GitCat/blob/master/LICENSE">
         <img src="https://img.shields.io/github/license/Goytai/GitCat?style=for-the-badge" alt="License MIT" />
     </a>
     <a href="https://gitcat.vercel.app/">
